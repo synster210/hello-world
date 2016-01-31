@@ -1,2 +1,2 @@
 # hello-world
-notes/ideas/upcoming projects
+notes/ideas/upcoming projects/to dos etc
